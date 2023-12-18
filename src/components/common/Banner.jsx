@@ -10,7 +10,9 @@ const Banner = () => {
       <div className='banner-content w-100 container text-white'>
         <div className='banner-badge text-uppercase'>join streaming</div>
         <h1 className='banner-title text-uppercase'>best online game to play</h1>
-        <p className='lead-text'>Live gaming with lots of other games. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</p>
+        <p className='lead-text'>Live gaming with lots of other games. 
+Welcome to Retrotift, your ultimate gaming destination! Immerse yourself in a diverse game library, connect with a global gaming community, and unlock exclusive content. Experience live events, tournaments, and a user-friendly interface. At Retrotift, we merge nostalgia with modern gaming for an unforgettable journey. Explore now and join the celebration of gaming culture!
+</p>
         <button type="button" className='banner-btn d-flex align-items-center'>
           <span className='btn-icon'>
             <FaGamepad className='text-white' size = { 25 } />
